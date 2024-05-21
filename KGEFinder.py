@@ -14,7 +14,7 @@ def signal_handler(sig, frame):
     print('\n')
     print(f'{Fore.CYAN}[!] Exiting...{Style.RESET_ALL}')
     sys.exit(0)
-# Inicialize colorama
+# Initialize colorama
 init(autoreset=True)
 
 def get_repos(username):
