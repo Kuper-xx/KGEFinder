@@ -13,10 +13,10 @@
 ## Explanation
 KGEFinder.py is a Python tool designed to find the email address from the commits of a given GitHub user. Here’s a brief explanation of how it works:
 
-Get Repositories: It fetches all repositories of the given GitHub username.
-Get Commits: For each repository, it retrieves the list of commits.
-Check Commit Verification: It checks if the commit is verified.
-Extract Email: If a commit is not verified, it fetches the commit in .patch format and extracts the email address of the committer.
+* Get Repositories: It fetches all repositories of the given GitHub username.
+* Get Commits: For each repository, it retrieves the list of commits.
+* Check Commit Verification: It checks if the commit is verified.
+* Extract Email: If a commit is not verified, it fetches the commit in .patch format and extracts the email address of the committer.
 
 ## Installation
 
