@@ -22,7 +22,7 @@ Extract Email: If a commit is not verified, it fetches the commit in .patch form
 
 To use KGEFinder.py, you need to have Python installed on your system. Additionally, you need to install the required Python libraries. Follow the steps below to get started:
 
-* Clone the repository:
+Clone the repository and enter to the folder:
    ```sh
    git clone https://github.com/Kuper-xx/KGEFinder.git
    cd KGEFinder
