@@ -45,4 +45,4 @@ Then you just have to put the github username target:
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-© Created by Kuper-xx - feel free to contact me!
+© Created by Kuper-xx - 2024 - feel free to contact me!
