@@ -27,7 +27,7 @@ Clone the repository and enter to the folder:
    git clone https://github.com/Kuper-xx/KGEFinder.git
    cd KGEFinder
    ```
-The we need to install the python requirements:
+Then we need to install the python requirements:
    ```sh
    pip install -r requirements.txt
    ```
