@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/KGEFinder-logo.png" alt="kgefinder" width="150px">
+  <img src="static/KGEFinder-logo.png" alt="kgefinder" width="300px">
   <br>
 </h1>
 
@@ -35,10 +35,11 @@ To run KGEFinder.py, use the following command:
 python KGEFinder.py
 ```
 Then you just have to put the github username target:
-<img src="static/example.png" alt="kgefinder" width="150px">
+<h1 align="center">
+  <img src="static/example.png" alt="kgefinder" width="800px">
+</h1>
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-* Contact
-Created by Kuper-xx - feel free to contact me!
+© Created by Kuper-xx - feel free to contact me!
